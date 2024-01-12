@@ -5,13 +5,5 @@
 | 07JAN | Deluxe Fried Chicken Sandwich | Impeckable Chicken | 16oz |  4 / 5|
 | 09JAN | Spicy Chicken Paremsan Sandwich | Wooden City Tavern | 12oz | 2 / 5 |
 | 11JAN | Teriyaki Chicken Rice Bowl | Taku | 8oz | 2 / 5 |
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
-
 
 
